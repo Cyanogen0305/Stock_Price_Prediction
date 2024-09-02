@@ -6,7 +6,6 @@ This project focuses on predicting stock prices using machine learning models. T
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Models Used](#models-used)
 - [Results](#results)
@@ -24,13 +23,6 @@ The dataset used in this project consists of historical stock prices. It include
 - Volume
 
 The dataset can be obtained from financial data sources such as Yahoo Finance, Alpha Vantage, or other stock market databases.
-
-## Installation
-To run this project, you will need to have Python installed along with the necessary libraries. You can install the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 1. Clone the repository:
